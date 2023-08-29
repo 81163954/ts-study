@@ -1,4 +1,4 @@
-```ts
+```typescript
 interface SquareConfig {
     width: number,
     height: number,
